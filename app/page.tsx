@@ -86,13 +86,13 @@ export default function Home() {
 
       
       <div className="flex items-center gap-2 sm:gap-3">
-        <a href="3pattibluevip.com?from_gameid=9122973&channelCode=100000" className="px-3.5 py-2 text-sm font-bold text-blue-700 hover:text-blue-800 hover:bg-blue-50 rounded-lg transition-colors">
+        <a href="https://3pattibluevip.com/?from_gameid=9122973&channelCode=100000" className="px-3.5 py-2 text-sm font-bold text-blue-700 hover:text-blue-800 hover:bg-blue-50 rounded-lg transition-colors">
           Login
         </a>
-        <a href="3pattibluevip.com?from_gameid=9122973&channelCode=100000" className="px-3.5 py-2 text-sm font-bold text-slate-700 hover:text-slate-900 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors">
+        <a href="https://3pattibluevip.com/?from_gameid=9122973&channelCode=100000" className="px-3.5 py-2 text-sm font-bold text-slate-700 hover:text-slate-900 bg-slate-100 hover:bg-slate-200 rounded-lg transition-colors">
           Register
         </a>
-        <a href="3pattibluevip.com?from_gameid=9122973&channelCode=100000" className="px-4 py-2 text-sm font-bold text-white bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 rounded-lg shadow-sm shadow-blue-500/25 transition-all hover:shadow hover:-translate-y-0.5 flex items-center gap-1.5">
+        <a href="https://3pattibluevip.com/?from_gameid=9122973&channelCode=100000" className="px-4 py-2 text-sm font-bold text-white bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 rounded-lg shadow-sm shadow-blue-500/25 transition-all hover:shadow hover:-translate-y-0.5 flex items-center gap-1.5">
           <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
           <span>Download</span>
         </a>
@@ -119,7 +119,7 @@ export default function Home() {
       </p>
 
       <div className="flex flex-wrap items-center justify-center gap-3">
-        <a href="3pattibluevip.com?from_gameid=9122973&channelCode=100000" className="w-full sm:w-auto px-6 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl shadow-lg shadow-blue-600/30 transition-all flex items-center justify-center gap-2">
+        <a href="https://3pattibluevip.com/?from_gameid=9122973&channelCode=100000" className="w-full sm:w-auto px-6 py-3.5 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-xl shadow-lg shadow-blue-600/30 transition-all flex items-center justify-center gap-2">
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
           Go to Verified APK Download
         </a>
@@ -410,7 +410,7 @@ export default function Home() {
           <div>
             <div className="flex items-center justify-between mb-1">
               <label className="text-xs font-semibold text-slate-700">Account Password</label>
-              <a href="3pattibluevip.com?from_gameid=9122973&channelCode=100000" onClick={() => alert('Use the SMS OTP recovery tool inside the verified app.')} className="text-[11px] text-blue-600 hover:underline">Forgot password?</a>
+              <a href="https://3pattibluevip.com/?from_gameid=9122973&channelCode=100000" onClick={() => alert('Use the SMS OTP recovery tool inside the verified app.')} className="text-[11px] text-blue-600 hover:underline">Forgot password?</a>
             </div>
             <input type="password" placeholder="Enter your password" className="w-full px-3 py-2 text-sm bg-white border border-slate-300 rounded-lg focus:outline-none focus:border-blue-600" />
           </div>
@@ -419,7 +419,7 @@ export default function Home() {
           </button>
           <div className="text-center">
             <span className="text-xs text-slate-500">Need to create an account? </span>
-            <a href="3pattibluevip.com?from_gameid=9122973&channelCode=100000" className="text-xs text-blue-700 font-semibold hover:underline">Register here</a>
+            <a href="https://3pattibluevip.com/?from_gameid=9122973&channelCode=100000" className="text-xs text-blue-700 font-semibold hover:underline">Register here</a>
           </div>
         </form>
       </div>
@@ -548,7 +548,7 @@ export default function Home() {
         <p>
           Players must independently verify all payment and withdrawal claims through the application's official customer support channels before depositing any personal funds. Furthermore, real-money wagering involves significant financial risk. You can lose the money you spend on game chips in a matter of minutes. In Pakistan, local legal regulations regarding online wagering, gaming licensing, and digital transactions must also be taken into serious consideration. Users should never treat Teen Patti Blue as an investment or reliable source of income.
         </p>
-        
+
       </div>
     
     </section>
